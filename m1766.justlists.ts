@@ -1,5 +1,5 @@
 {
- "name": "TokenListExample", #List name
+ "name": "TokenListm1766", #List name
  "logoURI": "https://coin.top/production/logo/usdj.png", #List logo uri
  "timestamp": 1610339529000, #Update time in millisecond
  "tokens": [{
