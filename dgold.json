@@ -1,0 +1,19 @@
+{
+   "name": "DGOLD", #List name
+   "logoURI": "https://coin.top/production/logo/usdj.png", #List logo uri
+   "timestamp": 1610339529000, #Update time in millisecond
+   "tokens": [{
+           "chainId": 1, #ChainId, which is currently 1
+           "address": "TJgNVhwb5P9uExj2RmYyu6UD1vHWdSBEQA", #Token address
+           "name": "Delta Gold", #Token name
+           "symbol": "DGOLD", #Token symbol
+           "decimals": 18, #Token decimals
+           "logoURI": "ttps://coin.top/production/upload/logo/TJgNVhwb5P9uExj2RmYyu6UD1vHWdSBEQA.png" #Token logo uri
+       }
+   ],
+   "version": { #Version info
+       "major": 1, #Major version
+       "minor": 0, #Minor version
+       "patch": 0  #Patch version
+   }
+}
